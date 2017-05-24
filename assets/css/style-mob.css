@@ -1,0 +1,109 @@
+@media (min-width: 768px) and (max-width: 870px) {
+	img.logo {
+	    width: 135px;
+	}
+	#topo ul.nav.navbar-nav>li>a {
+	    font-size: 12px;
+	    padding-left: 10px;
+	    padding-right: 10px;
+	}
+	#topo ul.nav.navbar-nav>li.orcamento>a {
+	    font-size: 10px;
+	    padding: 10px 10px;
+	}
+	.topo-interna nav>li>a.botao {
+	    padding: 7px 15px!important;
+	}
+	.topo-interna ul.nav.navbar-nav>li>a {
+	    font-size: 10px!important;
+	    padding-left: 5px;
+	    padding-right: 5px;
+	}
+}
+
+@media (max-width: 767px) {
+	.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+	    background: #1c304e;
+	    z-index: 100;
+	    position: relative;
+	    height: 350px;
+	    padding: 10px 30px;
+	}
+	#topo ul.nav.navbar-nav {
+	    float: none;
+	    display: block;
+	    text-align: center;
+	}
+	#topo ul.nav.navbar-nav>li {
+	    margin-bottom: 10px;
+	}
+	#vitrine {
+	    height: 400px;
+	}
+	.jquery-background-video-wrapper {
+	    height: 400px;
+	}
+	.video-hero--content h1 {
+	    font-size: 40px;
+	}
+	.video-hero--content p {
+	    font-size: 16px;
+	}
+	footer #contato input.botao {
+	    width: 36%;
+	}
+	#producao .content.rosa img {
+    	float: none;
+	}
+	#producao .content.rosa img {
+	    width: 82%!important;
+	}
+	#topo ul.nav.navbar-nav>li>a {
+	    padding: 8px;
+	}
+	#topo ul.nav.navbar-nav>li>a.active {
+	    padding: 0!important;
+	}
+	#vitrine-interna .content h1 {
+	    font-size: 40px;
+	}
+	#quem-somos img.plus {
+	    display: -webkit-box;
+	    margin: 30px auto;
+        float: none;
+	}
+	#quem-somos .item {
+	    width: 100%;
+	    float: none;
+	    text-align: center;
+	}
+	.blog.blog-interna .item {
+	    width: 100%!important;
+	}
+}
+
+@media (min-width: 787px) and (max-width: 999px) {
+	.owl-carousel.owl-theme.owl-loaded.owl-drag {
+	    height: 565px;
+	}
+}
+@media (min-width: 768px) and (max-width: 1010px) {
+	#topo ul.nav.navbar-nav>li>a.botao {
+	    padding: 8px 15px!important;
+	}
+	.topo-interna ul.nav.navbar-nav>li>a {
+	    font-size: 9px!important;
+	}
+}
+@media (max-width: 599px) {
+	.owl-carousel.owl-theme.owl-loaded.owl-drag {
+	    height: 630px;
+	}
+	.menu-topo ul>li>a.bola {
+	    padding: 5px 10px;
+	    font-size: 20px;
+	}
+	.menu-topo ul>li.img-elip img {
+	    width: 40px;
+	}
+}
